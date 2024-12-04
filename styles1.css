@@ -183,6 +183,9 @@ a:hover {
 .container {
     position: relative;
 }
+.text {
+    text-align: center;
+}
 .glryTtl {
     text-align: center;
     font-size: 24px;
