@@ -184,9 +184,11 @@ a:hover {
     position: relative;
 }
 .glryTtl {
+    text-align: center;
     font-size: 24px;
 }
 .glryDsc {
+    text-align: center;
     font-size: 16px;
 }
 .shwTtl {
