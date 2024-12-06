@@ -19,6 +19,7 @@ h1 {
 h4 {
     margin: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30pxs;
 }
 header {
     text-align: center;
@@ -84,8 +85,10 @@ a:hover {
     min-height: screen;
     margin-top: 0.3%;
     width: 15%;
-    background-color: #ebc445;
+    background-color: #6b9132; 
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
     color: #6b2254;
     font-size: 18;
     padding-left: 0;
@@ -93,13 +96,13 @@ a:hover {
 }
 .btn {
     justify-content: center;
-    background-color: #ebc445;
+    background-color: #6b9132; /*yelow #ebc445 */
     margin: 0;
     padding: 10px;
     border: 0;
 }
 .btn:hover {
-    background-color: #6b9132;
+    background-color: #c84d2b;
 }
 .btn.active {
     background-color: #c84d2b;
@@ -244,4 +247,31 @@ th {
     padding-right: 5%;
     overflow:none;
     font-size: 20px;
+}
+.rsmCntr {
+    display: flex;
+    padding: 20px;
+}
+
+.download-button {
+    background-color: #4CAF50; /* Green background */
+    border: none;
+    color: white; /* White text */
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex; /* Make the button inline-flex to align icon and text */
+    align-items: center; /* Center align icon and text vertically */
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+}
+
+.download-button i {
+    margin-right: 8px; /* Space between icon and text */
+}
+
+.download-button:hover {
+    background-color: #45a049; /* Darker green on hover */
 }
