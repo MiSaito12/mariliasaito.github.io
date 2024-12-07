@@ -98,7 +98,7 @@ a:hover {
     justify-content: center;
     background-color: #9ec663; /*yelow #ebc445 */
     margin: 0;
-    padding: 10px;
+    padding: 15px;
     border: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font: 16px;
@@ -231,6 +231,7 @@ th {
     width: 49.5%;
     flex-wrap: nowrap;
     text-align: center;
+    font-size: 16px;
 }
 .aboutCtn {
     display: flex;
@@ -248,7 +249,7 @@ th {
     width: 60%;
     padding-right: 5%;
     overflow:none;
-    font-size: 36px;
+    font-size: 24px;
 }
 .bioTxt {
     display: flex;
