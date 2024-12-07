@@ -19,7 +19,8 @@ h1 {
 h4 {
     margin: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 30pxs;
+    font-size: 30px;
+    color: #6b9132;
 }
 header {
     text-align: center;
@@ -101,7 +102,7 @@ a:hover {
     padding: 15px;
     border: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font: 16px;
+    font: 20px;
 }
 .btn:hover {
     background-color: #6b9132;
@@ -232,6 +233,8 @@ th {
     flex-wrap: nowrap;
     text-align: center;
     font-size: 16px;
+    border: #45a049;
+    border-style: dashed;
 }
 .aboutCtn {
     display: flex;
@@ -249,7 +252,7 @@ th {
     width: 60%;
     padding-right: 5%;
     overflow:none;
-    font-size: 24px;
+    font-size: 18px;
 }
 .bioTxt {
     display: flex;
