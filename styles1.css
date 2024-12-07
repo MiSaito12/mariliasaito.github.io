@@ -101,6 +101,7 @@ a:hover {
     padding: 10px;
     border: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: 16px;
 }
 .btn:hover {
     background-color: #6b9132;
