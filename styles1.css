@@ -261,6 +261,7 @@ th {
 .bioTxt {
     display: flex;
     width: 80%;
+    flex-direction: column;
 }
 .rsmCntr {
     display: flex;
@@ -268,9 +269,9 @@ th {
 }
 
 .download-button {
-    background-color: #4CAF50; /* Green background */
+    background-color: #6b2254; /* Green background */
     border: none;
-    color: white; /* White text */
+    color: #f7f6d4; /* White text */
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -287,5 +288,5 @@ th {
 }
 
 .download-button:hover {
-    background-color: #45a049; /* Darker green on hover */
+    background-color: #9ec663; /* ighter green on hover */
 }
