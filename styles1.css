@@ -250,6 +250,7 @@ th {
     width: 30%;
     float: left;
     padding-left: 5%;
+    margin: 5%;
 }
 .bio {
     display: flex;
