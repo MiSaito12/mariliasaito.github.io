@@ -258,11 +258,11 @@ th {
     padding-right: 5%;
     overflow:none;
     font-size: 18px;
+    flex-direction: column;
 }
 .bioTxt {
     display: flex;
     width: 80%;
-    flex-direction: column;
 }
 .rsmCntr {
     display: flex;
