@@ -272,9 +272,9 @@ th {
     display: flex;
     width: 80%;
     border-bottom: #c84d2b;
-    border-top: none;
-    border-left: none;
-    border-right: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
     border-style: dashed;
 }
 .rsmCntr {
@@ -293,6 +293,9 @@ th {
     margin: 4px 2px;
     align-self: center;
     
+}
+.resumeBtn {
+    align-items: center;
 }
 
 .download-button {
