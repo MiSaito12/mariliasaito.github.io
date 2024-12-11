@@ -305,6 +305,7 @@ th {
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     display: inline-flex; /* Make the button inline-flex to align icon and text */
     align-items: center; /* Center align icon and text vertically */
     font-size: 16px;
