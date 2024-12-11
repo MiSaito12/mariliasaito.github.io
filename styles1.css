@@ -256,6 +256,7 @@ th {
     display: flex;
     width: 30%;
     float: left;
+    align-self: center;
     padding-left: 5%;
     margin: 5%;
 }
@@ -270,6 +271,8 @@ th {
 .bioTxt {
     display: flex;
     width: 80%;
+    border-bottom: #c84d2b;
+    border-style: dashed;
 }
 .rsmCntr {
     display: flex;
