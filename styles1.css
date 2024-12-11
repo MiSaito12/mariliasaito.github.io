@@ -244,6 +244,7 @@ th {
     display: flex;
     width: 100%;
     overflow: none;
+    flex-direction: row;
 }
 .aboutPhoto {
     display: flex;
@@ -274,6 +275,7 @@ th {
     text-align: center;
     align-items: center;
     font-size: 16px;
+    text-decoration: none;
 }
 
 .download-button {
