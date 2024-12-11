@@ -272,6 +272,9 @@ th {
     display: flex;
     width: 80%;
     border-bottom: #c84d2b;
+    border-top: none;
+    border-left: none;
+    border-right: none;
     border-style: dashed;
 }
 .rsmCntr {
@@ -288,6 +291,7 @@ th {
     color: #f7f6d4;
     padding: 15px 32px;
     margin: 4px 2px;
+    align-self: center;
     
 }
 
