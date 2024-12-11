@@ -285,6 +285,10 @@ th {
     align-items: center;
     font-size: 16px;
     text-decoration: none;
+    color: #f7f6d4;
+    padding: 15px 32px;
+    margin: 4px 2px;
+    
 }
 
 .download-button {
